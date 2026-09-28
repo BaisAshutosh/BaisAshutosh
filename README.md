@@ -2,7 +2,7 @@
 <h3 align="center">Senior AI Engineer | Python | Azure AI | Agentic AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Generative+AI+Developer;Building+Agentic+AI+Systems;RAG+Pipelines+Engineer;Python+%7C+Azure+OpenAI+%7C+LangChain&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+AI+Engineer;Building+Agentic+AI+Systems;RAG+Pipelines+Engineer;Python+%7C+Azure+OpenAI+%7C+LangChain&center=true&width=500&height=45">
 </p>
 
 ---
