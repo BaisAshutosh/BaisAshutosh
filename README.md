@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Singh Bais</h1>
-<h3 align="center">Generative AI Developer | Python | Azure AI | Agentic AI</h3>
+<h3 align="center">Senior AI Engineer | Python | Azure AI | Agentic AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Generative+AI+Developer;Building+Agentic+AI+Systems;RAG+Pipelines+Engineer;Python+%7C+Azure+OpenAI+%7C+LangChain&center=true&width=500&height=45">
@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-* 💼 Generative AI Developer at **Accenture**
-* 🧠 4+ years experience building **AI-driven cloud applications**
+* 💼 Senior AI Engineer at **PWC**
+* 🧠 5+ years experience building **AI-driven cloud applications**
 * 🤖 Specialised in **RAG Pipelines, Agentic AI, and LLM integrations**
 * ☁️ Working with **Azure OpenAI, AI Search, Copilot Studio**
 * 🌐 Portfolio:
@@ -89,6 +89,7 @@ Automated document understanding and workflow automation.
 ✔ Google Cloud – Associate Cloud Engineer
 ✔ OpenAI API & ChatGPT API for Developers
 ✔ Generative AI Foundations
+✔ Claude Certified Associate - Foundations
 
 ---
 
